@@ -1,5 +1,5 @@
 # Архитектура системы голосований 
-<img width="1005" height="957" alt="изображение" src="https://github.com/user-attachments/assets/90ddb7c2-d299-4da7-b05a-28a772107715" />
+<img width="1030" height="969" alt="изображение" src="https://github.com/user-attachments/assets/65cf9d92-a46a-4fd5-8762-0b46262de79f" />
 
 
 ### Создание голосования
@@ -152,7 +152,7 @@ ACI выступает не как жесткий текстовый алгор�
 
 К примеру вот вариант текстового ACI:
 ```
-ADEQUACY CHECK INSTRUCTIONS (ACI) – CORE PROTOCOL
+ADEQUACY CHECK INSTRUCTIONS (ACI)
 
 EVALUATION MANDATE AND OUTPUT REQUIREMENT:
 Your evaluation must culminate in exactly two strictly formatted outputs based on the logical, structural, and categorical analysis of the submitted text.
@@ -218,8 +218,10 @@ Theme of the text: [Tier 1, Tier 2, Tier 3, or Tier 4]
 ```
 <img width="814" height="650" alt="изображение" src="https://github.com/user-attachments/assets/df731cdb-6711-47f7-bd11-19832b7f0b9b" />
 
-Можно ли отклонить голосование после победы если оно в итоге не соответсвует ACI? — Дело персональное, я склоняюсь к весрии, что отклонить можно после победы, но до реализации. Если что-то уже реализованно
-или реализуеться отклонять не вариант, как минимум голосование в любом случае прошло все остальные этапы.
+Конечно, подобный вариант ACI и проверка с помощью популярных ИИ-моделей не лучший вариант, но это лишь пример, на деле, как я уже говорил, ACI может быть чем угодно.
+
+Можно ли отклонять голсования после победы если они в итоге не соотвествуют ACI? — Дело персональное, я склонаюсь к версии, что отклонить можно после победы, но до реализации. В любом случае
+никто не мешает вам встроить свой механизм, к примеру запрет на выпуск решения если на голосовании есть хотя бы одна жалоба.
 
 ---
 
