@@ -227,4 +227,5 @@ Theme of the text: [Tier 1, Tier 2, Tier 3, or Tier 4]
 
 Copyright (c) 2026 Kirill S. (headwatch).
 
-Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts. A copy of the license is included in the section entitled "GNU Free Documentation License".
+This document is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0). 
+You are free to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material) for any purpose, provided you give appropriate credit to Kirill S. (headwatch). The full legal text of the license can be found at: https://creativecommons.org/licenses/by/4.0/legalcode.txt
