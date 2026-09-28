@@ -1,5 +1,6 @@
 # Архитектура системы голосований 
-<img width="1030" height="969" alt="изображение" src="https://github.com/user-attachments/assets/65cf9d92-a46a-4fd5-8762-0b46262de79f" />
+<img width="1053" height="1007" alt="Снимок экрана от 2026-09-26 23-56-05" src="https://github.com/user-attachments/assets/23755ee8-2b31-4f74-b9c3-185a235d6f73" />
+
 
 
 ### Создание голосования
