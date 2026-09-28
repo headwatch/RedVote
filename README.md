@@ -155,9 +155,9 @@ ACI выступает не как жесткий текстовый алгор�
 ADEQUACY CHECK INSTRUCTIONS (ACI)
 
 EVALUATION MANDATE AND OUTPUT REQUIREMENT:
-Your evaluation must culminate in exactly two strictly formatted outputs based on the logical, structural, and categorical analysis of the submitted text.
+The evaluation must culminate in exactly two strictly formatted outputs based on the logical, structural, and categorical analysis of the submitted text.
 * Legitimacy [0 or 1]: Return 1 (TRUE/VALID) if and only if the text unconditionally satisfies ALL criteria outlined in Sections I through V. Return 0 (FALSE/INVALID) if the text violates even a single sub-clause of this protocol.
-* Theme of the text [1, 2, 3, or 4]: You must definitively classify the structural intent of the text into one of four systemic Tiers (defined in Section V). 
+* Theme of the text [1, 2, 3, or 4]: The structural intent of the text must be definitively classified into one of four systemic Tiers (defined in Section V). 
 
 ***
 
@@ -186,7 +186,7 @@ The democratic mechanism shall not be utilized to execute the destruction of the
 1. Systemic Suicide: Any vote aimed at the deletion of the community, mass-banning of the user base without specific operational cause, or deliberate sabotage of the digital infrastructure is instantly classified as a zero-state (0) proposition.
 
 SECTION V: CATEGORY ALIGNMENT AND TIER VERIFICATION
-The text must be analyzed to determine its true systemic impact. You must assign the correct Tier based on the text's actual logical objective. If the text attempts to combine multiple actions across different Tiers, it must be classified by the highest applicable Tier.
+The text must be analyzed to determine its true systemic impact. The correct Tier must be assigned based on the text's actual logical objective. If the text attempts to combine multiple actions across different Tiers, it must be classified by the highest applicable Tier.
 * TIER 1 (Low Impact / Routine): Temporary events, purely cosmetic changes (emojis, server icons), and casual polls with no systemic consequences. The action does not grant or remove permissions, does not alter server architecture, and does not penalize any user.
 * TIER 2 (Medium Impact / Organizational): Spatial and structural convenience. Creation, deletion, or renaming of text/voice channels; addition of standard cosmetic roles; minor disciplinary actions (e.g., short-term mutes not exceeding 2 hours); establishment of minor scheduling traditions.
 * TIER 3 (High Impact / Justice and Governance): Restriction of freedoms, distribution of authority, and rule modification. Banning, kicking, or long-term muting of a user; granting or revoking administrative/moderator privileges; integrating complex bots with moderation permissions; amending or adding official community rules.
@@ -195,7 +195,7 @@ The text must be analyzed to determine its true systemic impact. You must assign
 ***
 
 FINAL OUTPUT FORMAT:
-Upon processing the text, you must return ONLY the following data structure:
+Upon processing the text, ONLY the following data structure must be returned:
 Legitimacy: [0 or 1]
 Theme of the text: [Tier 1, Tier 2, Tier 3, or Tier 4]
 ```
